@@ -1,1 +1,0 @@
-this is a Machine learning project using streamlit
